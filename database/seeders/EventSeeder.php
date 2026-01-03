@@ -20,7 +20,7 @@ class EventSeeder extends Seeder
                 'title' => 'Morning Standup',
                 'description' => 'Daily team synchronization.',
                 'date' => $today,
-                'time' => '09:00:00',
+                'time' => '10:00:00',
                 'location' => 'Zoom',
             ],
             [
